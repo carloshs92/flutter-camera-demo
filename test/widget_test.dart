@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
+import 'package:flutter_camera_demo/display_picture_screen.dart';
 import 'package:flutter_camera_demo/main.dart';
 
 void main() {
